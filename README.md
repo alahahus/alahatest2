@@ -1,1 +1,2 @@
-# alahatest2
+# newleapingliontest
+The Redesigned Leaping Lion Books Test Site
